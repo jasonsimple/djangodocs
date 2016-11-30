@@ -1,8 +1,4 @@
-﻿Django Admin 管理工具 | 测试 readthedocs
-
----
-
-### <center>目录</center>
+﻿<center>Django Admin 管理工具 | 测试 readthedocs</center>
 
 ---
 
